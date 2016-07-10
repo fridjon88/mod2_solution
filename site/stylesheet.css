@@ -22,8 +22,8 @@ h2 {
 	font-size: 125%;	
 }
 #Chicken, #Beef, #Sushi {
-	border: 5px solid black;
-	border-width: 0px 0px 5px 5px;
+	border: 1px solid black;
+	border-width: 0px 0px 1px 1px;
 	padding: 0px 40px 0px 40px;	
 }
 #Chicken{
@@ -45,7 +45,7 @@ div {
 	margin-bottom: 30px;
 	margin-right: 15px;
 	margin-left: 15px;
-	border : 5px solid black;
+	border : 1px solid black;
 	background-color: #848482;
 	
 	float: right;
